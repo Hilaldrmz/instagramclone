@@ -1,0 +1,22 @@
+::placeholder {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    background-image: url(/assets/search-solid.svg);
+    background-repeat: no-repeat;
+  }
+
+  .navbar-nav >* {
+    margin-top: 2px;
+    margin-left: 5px;
+  }
+
+.mıddlearea{
+    max-height: 200px !important;
+}
+.storytext {
+    color: black !important;
+    text-decoration: none;
+}
